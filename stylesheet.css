@@ -1,0 +1,120 @@
+.masthead-heading,
+.masthead-intro,
+.footer {
+  text-align: center;
+}
+
+p {
+  font-family: 'oswald', serif;
+  font-size: 18px;
+  letter-spacing: 0.05em;
+  font-weight:;
+}
+.mastheader {
+  border-radius: 10px 10px 5px 5px;
+  padding: 10em 0;
+  background-size: 95em;
+  margin: 1em 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 90px;
+  border-top: solid .75em #FFB3FF; 
+  box-shadow: 10px 10px 5px #C8C8C8;
+  background-image: url(https://ununsplash.imgix.net/38/QoR8Bv1S2SEqH6UcSJCA_Tea.jpg?q=75&fm=jpg&s=a3cfe8f3f16e64f561affa107e3e668b)
+}
+  
+.masthead-intro {
+  margin-bottom: 0.1em;
+  font-family: 'Poller One', cursive;
+  font-size: 22px;
+  color: #ffffff;
+  <!--text-shadow: 1px 1px 1px #000;-->
+;
+}
+.masthead-heading {
+  margin-top: -0.2em;
+  font-size: 150px;
+  font-family: 'Lobster Two', cursive;
+  color: #720000;
+ text-shadow: 3px 4px 3px #FFF;
+}
+.about-me {
+  text-align: left;
+  font-family: 'Lobster Two', cursive;
+  font-size: 23px;
+  color: #232022;
+}
+.infome,
+.whereimfrom,
+.moreaboutme {
+    max-width: 38em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+    letter-spacing: 0.05em;
+    padding-bottom: em;
+}
+
+h2, h1 {
+  color: #0099FF;
+}
+.third-place {
+  color: #E65CB8;
+  font-size: 25px;
+}
+.mesa {
+  font-family: 'ariel';
+  font-size: 23px;
+}
+.lovecoding {
+  color: #252B2E;
+  font-size: 28px;
+}
+.footer {
+  border-radius: 5px 5px 15px 20px;
+  box-shadow: 6px 6px 2px #C8C8C8;
+  background-size: 900px;
+  background-position: cover;
+  background-repeat: no-repeat;
+  background-color: #232022;
+  color: white;
+  padding: 18px 0;
+  letter-spacing: 0.0em;
+}
+.linkme {
+  font-size: 30px;
+  font-family: 'Lobster Two', cursive; 
+}
+.sociallinks {
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;  
+}
+
+.sociallinks ul {
+   padding:0px; 
+}
+
+.sociallinks li {
+    list-style-type: none;
+    display: inline-block;
+}
+.love {
+  font-family: 'ariel';
+  color: red;
+}
+.neverfails {
+  font-size: 30px;
+  color:;
+}
+.moreaboutme {
+  padding-bottom: 3em;
+}
+a:link {
+  color: #FFB3FF;
+}
+a:hover {
+  color: white;
+}
+a:visited {
+  color: #FF9900;
+}
